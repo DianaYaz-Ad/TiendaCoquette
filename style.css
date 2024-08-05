@@ -1,0 +1,70 @@
+body {
+    /*poner imagen de fondo
+    background-image: url("/fondogatos.jpg");*/
+    background-color: rgb(243, 218, 230);
+    text-align: center;
+    color: #4c97c0;
+    font-family: Georgia, serif;
+    padding: 30px;
+}
+
+h1 {
+    color: burlywood;
+}
+
+#logo {
+    width: 200px;
+    text-align: center;
+}
+
+#navegacion {
+    display: inline;
+}
+
+#navegacion li {
+    display: inline;
+}
+
+.negro {
+    color: black;
+}
+
+
+.button {
+    background-color: rgb(199, 155, 240);
+    border: none;
+    color: aliceblue;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 8px;
+}
+
+.texto-centrado {
+    text-align: center;
+}
+
+.texto-justificado {
+    text-align: justify;
+}
+
+.inline {
+    display: inline;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.Coquette {
+    border: 10px outset rgb(191, 79, 159);
+    width: 250px;
+    height: auto;
+    padding: 12px;
+    margin: 16px;
+    }
+
+#Ali {
+width: 150px;
+}
